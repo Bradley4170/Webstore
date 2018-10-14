@@ -1,5 +1,5 @@
 <div class="navbar">
-    <a href="#home">Home</a>
+    <a href="../index.php">Home</a>
     <div class="dropdown">
         <button class="dropbtn">Pages
             <i class="fa fa-caret-down"></i>
