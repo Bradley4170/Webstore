@@ -1,8 +1,13 @@
-<nav>
-    <ul>
-        <li class="menu"><a href="#"></a>Home</li>
-        <li class="menu"><a href="#"></a>Page 1</li>
-        <li class="menu"><a href="#"></a>Page 2</li>
-        <li class="menu"><a href="#"></a>Page 3</li>
-    </ul>
-</nav>
+<div class="navbar">
+    <a href="#home">Home</a>
+    <div class="dropdown">
+        <button class="dropbtn">Pages
+            <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+            <a href="#">1</a>
+            <a href="#">2</a>
+            <a href="#">3</a>
+        </div>
+    </div>
+</div>
