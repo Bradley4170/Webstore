@@ -1,0 +1,32 @@
+form input[type="text"] {
+    margin: 3% auto 0px auto;
+}
+
+form input[type="password"] {
+    margin: 0.3% auto;
+}
+
+form input {
+    padding: 1.5% 0.75%;
+    width: 20%;
+    text-align: center;
+    display: block;
+    background: #B5ADAC;
+    border: none;
+    color: white;
+
+}
+
+div#loginportal {
+    padding: 1.5% 0.75%;
+    width: 70%;
+    background: #525252;
+    text-align: center;
+    margin: 5% auto 0px auto;
+    border-radius: 25px;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1;
+}
